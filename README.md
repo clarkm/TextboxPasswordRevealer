@@ -1,5 +1,5 @@
 # TextboxPasswordRevealer
-Chrome extension to toggle all passwords on page to text - revealing them.
+Have a password saved in your browser but can't get it out? Simply click the extention button to toggle all password fields to text and password.
 
 # how to install:
 <ul>
