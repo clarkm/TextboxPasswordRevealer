@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Reveal Password Toggler",
+  "version": "1.0",
+  "description": "Have a password saved in your browser but can't get it out? Simply click the extention button to toggle all password fields to text and password.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
